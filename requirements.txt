@@ -1,6 +1,6 @@
 datasets==3.0.0
 mmengine==0.10.4
-openai==1.30.4
+openai==1.55.3
 pandas==2.2.3
 peft==0.12.0
 torch==2.4.1
