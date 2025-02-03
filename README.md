@@ -45,6 +45,9 @@ BASE_URL_DEEPINFRA="https://api.deepinfra.com/v1/openai"
 DEEPINFRA_API_KEY="YOUR_API_KEY"
 ```
 
+## ⚡️ Model Recommendation for Attack Generation
+We have noticed that GPT-4o, when used as an attack model, tends to refuse to generate multi-turn attack prompts. Therefore, we recommend using the open-source LLM WizardLM-2-8x22B. (You can also access the model through the DeepInfra API via microsoft/WizardLM-2-8x22B.)
+
 ✨An example run:
 
 ```
