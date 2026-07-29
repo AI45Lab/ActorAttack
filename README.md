@@ -12,7 +12,6 @@
 
 ## 🆙Updates 
 * [x] 2024-10-14: We release [SafeMTData](https://huggingface.co/datasets/SafeMTData/SafeMTData) which inclues our multi-turn jailbreak data and the multi-turn safety alignment data on huggingface.
-* [ ] We will release a more 10K multi-turn safety alignment data soon.
 
 ## 📄 Brief Information for each file and directory
 - `data` ---> includes the original jailbreak benchmark data.
